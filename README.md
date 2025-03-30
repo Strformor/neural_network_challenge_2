@@ -61,5 +61,3 @@ This project reinforces the importance of **data quality, feature engineering, a
 
 🔹 **Workforce Planning:**  
 - Optimize department assignment based on **employee characteristics**, improving **job satisfaction, productivity, and performance**.  
-
-Would you like to explore different model tweaks to improve department classification accuracy? 🚀
