@@ -1,7 +1,4 @@
 # NNC 2
-
-Here’s your content rewritten in your style while keeping the key details intact:  
-
 ---
 
 ### **Project Overview**  
